@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @moloflix
-- 👀 I’m interested in Java, JS, CSS, Html, Android, Lua, NodeJs, PHP
-- 🌱 I’m currently learning C#
-- 📫 How to reach me MoSattout#2632
+
